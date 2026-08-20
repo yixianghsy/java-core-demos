@@ -3,6 +3,7 @@ import java.util.function.*;
 /**
  * JDK内置四大核心函数式接口
  * Consumer、Supplier、Function、Predicate
+ *
  */
 public class FuncInterfaceDemo {
     public static void main(String[] args) {
