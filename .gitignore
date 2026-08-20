@@ -1,0 +1,10 @@
+# IDEA
+.idea/
+*.iml
+
+# Java编译输出
+out/
+target/
+
+# 系统文件
+.DS_Store
